@@ -255,11 +255,13 @@ CATIA и 3DEXPERIENCE являются товарными знаками или 
 
 ---
 
-## 📜 License
+## 📜 Лицензия
 
-На текущем этапе open-source лицензия в проект не добавлена.
+Проект распространяется по лицензии **MIT License**.
 
-Перед тем как разрешить свободное использование, изменение и распространение исходного кода третьими лицами, необходимо выбрать подходящую лицензию.
+Вы можете использовать, изменять и распространять исходный код в соответствии с условиями лицензии.
+
+Подробнее см. файл [`LICENSE`](LICENSE).
 
 ---
 
@@ -510,6 +512,8 @@ CATIA and 3DEXPERIENCE are trademarks or registered trademarks of their respecti
 
 ## 📜 License
 
-No open-source license is included at this stage.
+This project is distributed under the **MIT License**.
 
-Before allowing third parties to freely use, modify or redistribute the source code, an appropriate license should be selected and added to the repository.
+You may use, modify and distribute the source code in accordance with the license terms.
+
+See [`LICENSE`](LICENSE) for details.
